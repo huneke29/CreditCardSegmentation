@@ -1,2 +1,2 @@
 # CreditCardSegmentation
-Segmenting Credit Card Users to best allocate Marketing Resources
+Segmenting Credit Card Users using K-Means Clustering to best allocate Marketing Resources
